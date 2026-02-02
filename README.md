@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe8552bb-774a-4492-b843-5942eff71ded" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d0f8d6be-805f-4037-ba54-e8ac904be0ae" width="100%" />
 </p>
+
+
 
 ### 👋 About Me  
 Étudiant en Master spécialisé en Data Science à l’Université Paris-Est Créteil (UPEC), je me prépare à une carrière dans la science des données et l’intelligence artificielle, avec un fort intérêt pour les enjeux futurs liés à l’IA.
