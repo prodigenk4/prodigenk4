@@ -1,6 +1,5 @@
 
-![Vidéo sans titre ‐ Réalisée avec Clipchamp (1)](https://github.com/user-attachments/assets/4eae4874-4db3-4cf6-a4df-dc7d92c4e6e2)
-
+![bbbb (1)](https://github.com/user-attachments/assets/fe8552bb-774a-4492-b843-5942eff71ded)
 
 ### 👋 About Me  
 Étudiant en Master spécialisé en Data Science à l’Université Paris-Est Créteil (UPEC), je me prépare à une carrière dans la science des données et l’intelligence artificielle, avec un fort intérêt pour les enjeux futurs liés à l’IA.
