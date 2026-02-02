@@ -10,14 +10,6 @@ Je développe des projets en Python, R et SQL, en mettant l’accent sur des app
 
 Animé par une démarche d’apprentissage continu, je m’intéresse particulièrement à l’évolution des modèles d’IA, à leur impact économique et social, ainsi qu’aux défis éthiques et techniques qu’ils soulèvent.
 
----
-
-### 📊 GitHub Stats & Activity  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prodigenk4&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodigenk4&layout=compact&theme=radical)
-
----
 
 ### 🏆 Featured Projects – Scoring Crédit  
 
@@ -26,18 +18,6 @@ Animé par une démarche d’apprentissage continu, je m’intéresse particuli�
 - Développement d'un modèle de scoring crédit avec Logit comme Benchmark, RandomForest et XGBoost  
 - Feature engineering pour données financières  
 - Validation conformes aux réglementations Bâle II/III  
-
-#### **[Validation de Modèles MLOps](https://github.com/prodigenk4/mlops-validation)**  
-⚙️ *MLOps · Model Validation · CI/CD*  
-- Pipeline automatisé de validation de modèles de crédit  
-- Tests de stabilité et de discrimination (AUC, Gini)  
-- Monitoring des dérives de données en production  
-
-#### **[Dashboard Risque Crédit](https://github.com/prodigenk4/credit-risk-dashboard)**  
-📈 *Dash · Plotly · Data Visualization*  
-- Tableau de bord interactif pour le suivi des scores  
-- Analyse des segments à risque  
-- Reporting automatique pour les décisionnaires  
 
 ---
 
@@ -50,11 +30,6 @@ Animé par une démarche d’apprentissage continu, je m’intéresse particuli�
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat)
 
-**MLOps & Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Visualization:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
