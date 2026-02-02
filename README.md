@@ -1,3 +1,27 @@
+
+
+----
+<p align="center">
+  <img src="C:\Users\prodi\OneDrive\Desktop\IMAGE.png" alt="Bannière" width="100%"/>
+</p>
+
+<h1 align="center">Prodige NKURUNZIZA</h1>
+<h3 align="center">
+  <code>01010</code> · <code>010111</code>
+</h3>
+<p align="center">
+  <strong>Data Scientist · Data Analyst · Analyste quantitatif</strong>
+</p>
+
+<p align="center">
+  <!-- Badge LinkedIn avec lien -->
+  <a href="https://www.linkedin.com/in/prodige-pnk/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prodige%20NKURUNZIZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 # Prodige NKURUNZIZA  
 **Data Scientist . Quantitative Analyst · Credit Risk Modeling**
 
@@ -42,7 +66,7 @@ Animé par une démarche d’apprentissage continu, je m’intéresse particuli�
 
 [![GitHub](https://img.shields.io/badge/GitHub-prodigenk4-black?style=for-the-badge&logo=github)](https://github.com/prodigenk4)  
 [![Email](https://img.shields.io/badge/Email-prodigenkuru4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prodigenkuru4@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apollinaire%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/](https://www.linkedin.com/in/prodige-pnk/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prodige%20NKURUNZIZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/](https://www.linkedin.com/in/prodige-pnk/))  
 *[Portfolio en construction]*
 
 ---
