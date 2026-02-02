@@ -1,29 +1,6 @@
 
+![Vidéo sans titre ‐ Réalisée avec Clipchamp (1)](https://github.com/user-attachments/assets/4eae4874-4db3-4cf6-a4df-dc7d92c4e6e2)
 
-----
-<p align="center">
-  <img src="C:\Users\prodi\OneDrive\Desktop\IMAGE.png" alt="Bannière" width="100%"/>
-</p>
-
-<h1 align="center">Prodige NKURUNZIZA</h1>
-<h3 align="center">
-  <code>01010</code> · <code>010111</code>
-</h3>
-<p align="center">
-  <strong>Data Scientist · Data Analyst · Analyste quantitatif</strong>
-</p>
-
-<p align="center">
-  <!-- Badge LinkedIn avec lien -->
-  <a href="https://www.linkedin.com/in/prodige-pnk/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prodige%20NKURUNZIZA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-# Prodige NKURUNZIZA  
-**Data Scientist . Quantitative Analyst · Credit Risk Modeling**
 
 ### 👋 About Me  
 Étudiant en Master spécialisé en Data Science à l’Université Paris-Est Créteil (UPEC), je me prépare à une carrière dans la science des données et l’intelligence artificielle, avec un fort intérêt pour les enjeux futurs liés à l’IA.
